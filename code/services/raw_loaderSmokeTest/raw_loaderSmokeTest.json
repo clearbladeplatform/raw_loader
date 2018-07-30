@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,raw_loader",
+    "logging_enabled": "false",
+    "name": "raw_loaderSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "raw_loaderSmokeTest.js"
+}
